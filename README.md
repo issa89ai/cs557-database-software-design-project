@@ -36,15 +36,6 @@ It demonstrates database design, ER modeling, and full CRUD operations through a
 
 
 
-\## 🔐 Admin Login Credentials
-
-
-
-Username: admin
-
-Password: admin123
-
-
 ---
 
 
