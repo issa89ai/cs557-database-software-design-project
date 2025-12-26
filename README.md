@@ -101,13 +101,18 @@ http://localhost/app
 
 
 
-\## 📄 Notes
+📝 Notes
 
+This project was developed as part of an academic course.
 
+The code is intended for educational and research purposes only.
 
-\- This project was developed for academic purposes.
+No external datasets are required beyond those provided with the assignment.
 
-\- All assets, libraries, and source code are included in this repository.
+👤 Author
 
+Ahmad Issa
+Bishop’s University
+Department of Computer Science
 
 
