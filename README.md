@@ -58,36 +58,3 @@ cs557-database-software-design-project/
 │   └── Report FP G.pdf
 ├── .gitignore
 └── README.md
-```
-
----
-
-## 🚀 How to Run
-
-1. Install **XAMPP** or **WAMP**
-2. Copy the `app/` folder into `htdocs/` (XAMPP) or `www/` (WAMP)
-3. Import the database:
-   - Open phpMyAdmin at `http://localhost/phpmyadmin`
-   - Create a new database and import the SQL file from `app/database/`
-4. Start **Apache** and **MySQL**
-5. Open your browser at: `http://localhost/app`
-
----
-
-## 📝 Notes
-
-This project was developed as part of an academic course.  
-The code is intended for educational and research purposes only.
-
-## 👤 Author
-
-**Ahmad Issa**  
-Bishop's University  
-Department of Computer Science
-
----
-
-**Ahmad Issa**  
-Master's Student in Computer Science  
-Bishop's University  
-Student ID: 002230777
