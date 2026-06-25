@@ -38,7 +38,7 @@ Class Action {
 			$is_verified = password_verify($password, $result['password']);
 			if($is_verified){
 				foreach ($result as $key => $value) {
-					if($key != 'passwors' && !is_numeric($key))
+					if($key != 'password' && !is_numeric($key))
 						$_SESSION['login_'.$key] = $value;
 				}
 				$ip = isset($_SERVER['HTTP_CLIENT_IP']) ? $_SERVER['HTTP_CLIENT_IP'] : (isset($_SERVER['HTTP_X_FORWARDED_FOR']) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR']);
