@@ -58,3 +58,21 @@ cs557-database-software-design-project/
 │   └── Report FP G.pdf
 ├── .gitignore
 └── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Install XAMPP or WAMP
+2. Place the `app/` folder in `htdocs/`
+3. Import `app/database/` SQL dump into MySQL
+4. Open `http://localhost/app/` in your browser
+
+---
+
+## 👤 Author
+
+**Ahmad Issa**  
+Machine Learning Engineer | AI & Data Science  
+[GitHub](https://github.com/issa89ai) · [LinkedIn](https://linkedin.com/in/ahmadissa)
